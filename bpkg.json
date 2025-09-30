@@ -1,0 +1,7 @@
+{
+  "name": "bash_logging_with_timer",
+  "version": "0.1.0",
+  "description": "Log entries with time and time elapsed",
+  "scripts": [ "bash_logging_with_timer.sh" ],
+  "global": "false"
+}
